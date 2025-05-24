@@ -1,4 +1,4 @@
-                                        # YIM
+# YIM
 The YIM Multi-Tasking Voice-Controlled Robot project presents an innovative, voiceoperated
 robotic system designed to serve as a smart assistant and service bot for diverse
 applications, including classroom navigation, home automation, and safety monitoring. This
