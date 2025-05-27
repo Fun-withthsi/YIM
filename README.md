@@ -5,7 +5,7 @@ applications, including classroom navigation, home automation, and safety monito
 project integrates advanced voice recognition, sensor-based navigation, and IoT-enabled
 automation to execute multiple tasks seamlessly via offline voice commands.
 
-#MANUAL
+# MANUAL
 
 1. Introduction
 The YIM Robot is a voice-controlled, multitasking assistant designed for home automation, classroom navigation, and safety monitoring. It combines offline voice recognition, RFID navigation, and IoT capabilities to perform tasks like object transportation, appliance control, and environmental sensing.
@@ -17,7 +17,7 @@ Key Features:
 •	Temperature monitoring.
 
 
-#2. Safety Information
+# 2. Safety Information
 ⚠️ Warnings:
 •	Do not expose to water or humid environments.
 •	Avoid collisions with obstacles to prevent sensor damage.
@@ -27,7 +27,7 @@ Key Features:
 •	Avoid over load operation with 3D arm (max. weight 100-150g)
 •	Battery protection, do not drop the lipo battery voltage below 10v.
 
-#3. Setup Instructions
+# 3. Setup Instructions
 3.1 Powering On
 1.	Slide the 2A rocker switch to the "ON" position.
 
@@ -40,4 +40,4 @@ Key Features:
 1.	Wake-Up Command: Activate the robot by saying "Hey YIM", "Hello YIM", or simply "YIM". Once awakened, the robot remains in active listening mode for 1 minute, allowing you to issue subsequent commands without repeating the wake-up phrase.
 
 
-#Full manual file is Uploaded in word file
+# Full manual file is Uploaded in word file #
